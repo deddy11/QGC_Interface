@@ -1,0 +1,17 @@
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/download_extra_data.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/mavconn.dir
+/home/deddy/QGCInterface/build/libmavconn/gtest/CMakeFiles/gtest.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/_run_tests_libmavconn.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/_catkin_empty_exported_target.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/tests.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/run_tests_libmavconn_gtest.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/doxygen.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/_run_tests_libmavconn_gtest.dir
+/home/deddy/QGCInterface/build/libmavconn/gtest/CMakeFiles/gtest_main.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/_run_tests_libmavconn_gtest_mavconn-test.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/clean_test_results_libmavconn.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/run_tests_libmavconn_gtest_mavconn-test.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/clean_test_results.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/run_tests.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/run_tests_libmavconn.dir
+/home/deddy/QGCInterface/build/libmavconn/CMakeFiles/mavconn-test.dir

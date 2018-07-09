@@ -1,0 +1,6 @@
+devel_space: /home/deddy/QGCInterface/devel
+install: false
+install_space: /home/deddy/QGCInterface/install
+profile: default
+source_space: /home/deddy/QGCInterface/src
+workspace: /home/deddy/QGCInterface

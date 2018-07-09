@@ -1,0 +1,16 @@
+Symlinking /home/deddy/QGCInterface/devel/lib/pkgconfig/uavugv.pc
+Symlinking /home/deddy/QGCInterface/devel/lib/uavugv/ugvdummy
+Symlinking /home/deddy/QGCInterface/devel/lib/uavugv/uavdummy
+Symlinking /home/deddy/QGCInterface/devel/lib/uavugv/uavugvpose
+Symlinking /home/deddy/QGCInterface/devel/lib/python2.7/dist-packages/uavugv/__init__.py
+Symlinking /home/deddy/QGCInterface/devel/lib/python2.7/dist-packages/uavugv/msg/_uavugverror.py
+Symlinking /home/deddy/QGCInterface/devel/lib/python2.7/dist-packages/uavugv/msg/__init__.py
+Symlinking /home/deddy/QGCInterface/devel/share/common-lisp/ros/uavugv/msg/uavugverror.lisp
+Symlinking /home/deddy/QGCInterface/devel/share/common-lisp/ros/uavugv/msg/_package.lisp
+Symlinking /home/deddy/QGCInterface/devel/share/common-lisp/ros/uavugv/msg/_package_uavugverror.lisp
+Symlinking /home/deddy/QGCInterface/devel/share/common-lisp/ros/uavugv/msg/uavugv-msg.asd
+Symlinking /home/deddy/QGCInterface/devel/share/uavugv/cmake/uavugv-msg-extras.cmake
+Symlinking /home/deddy/QGCInterface/devel/share/uavugv/cmake/uavugv-msg-paths.cmake
+Symlinking /home/deddy/QGCInterface/devel/share/uavugv/cmake/uavugvConfig.cmake
+Symlinking /home/deddy/QGCInterface/devel/share/uavugv/cmake/uavugvConfig-version.cmake
+Symlinking /home/deddy/QGCInterface/devel/include/uavugv/uavugverror.h

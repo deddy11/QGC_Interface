@@ -1,0 +1,8 @@
+prefix=/home/deddy/QGCInterface/devel/.private/uavugv
+
+Name: uavugv
+Description: Description of uavugv
+Version: 0.0.0
+Cflags: -I/home/deddy/QGCInterface/devel/.private/uavugv/include
+Libs: -L/home/deddy/QGCInterface/devel/.private/uavugv/lib 
+Requires: message_runtime

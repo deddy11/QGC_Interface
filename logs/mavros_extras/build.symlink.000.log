@@ -1,0 +1,7 @@
+Symlinking /home/deddy/QGCInterface/devel/lib/libmavros_extras.so
+Symlinking /home/deddy/QGCInterface/devel/lib/pkgconfig/mavros_extras.pc
+Symlinking /home/deddy/QGCInterface/devel/lib/mavros_extras/gcs_image_bridge
+Symlinking /home/deddy/QGCInterface/devel/lib/mavros_extras/servo_state_publisher
+Symlinking /home/deddy/QGCInterface/devel/lib/mavros_extras/copter_visualization
+Symlinking /home/deddy/QGCInterface/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+Symlinking /home/deddy/QGCInterface/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake

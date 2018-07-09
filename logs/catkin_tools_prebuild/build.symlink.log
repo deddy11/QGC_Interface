@@ -1,0 +1,8 @@
+Symlinking /home/deddy/QGCInterface/devel/./setup.zsh
+Symlinking /home/deddy/QGCInterface/devel/./setup.sh
+Symlinking /home/deddy/QGCInterface/devel/./setup.bash
+Symlinking /home/deddy/QGCInterface/devel/./_setup_util.py
+Symlinking /home/deddy/QGCInterface/devel/./env.sh
+Symlinking /home/deddy/QGCInterface/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/deddy/QGCInterface/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/deddy/QGCInterface/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

@@ -1,0 +1,10 @@
+Symlinking /home/deddy/QGCInterface/devel/lib/libmavros_plugins.so
+Symlinking /home/deddy/QGCInterface/devel/lib/libmavros.so
+Symlinking /home/deddy/QGCInterface/devel/lib/mavros/QGCinterface
+Symlinking /home/deddy/QGCInterface/devel/lib/mavros/mavros_node
+Symlinking /home/deddy/QGCInterface/devel/lib/mavros/chemical_dummy
+Symlinking /home/deddy/QGCInterface/devel/lib/mavros/gcs_bridge
+Symlinking /home/deddy/QGCInterface/devel/lib/pkgconfig/mavros.pc
+Symlinking /home/deddy/QGCInterface/devel/lib/python2.7/dist-packages/mavros/__init__.py
+Symlinking /home/deddy/QGCInterface/devel/share/mavros/cmake/mavrosConfig.cmake
+Symlinking /home/deddy/QGCInterface/devel/share/mavros/cmake/mavrosConfig-version.cmake

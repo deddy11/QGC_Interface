@@ -1,0 +1,8 @@
+prefix=/home/deddy/QGCInterface/devel/.private/libmavconn
+
+Name: libmavconn
+Description: Description of libmavconn
+Version: 0.17.5
+Cflags: -I/home/deddy/QGCInterface/src/mavros/libmavconn/include -I/usr/include -I/home/deddy/QGCInterface/devel/include
+Libs: -L/home/deddy/QGCInterface/devel/.private/libmavconn/lib -lmavconn -l:/usr/lib/x86_64-linux-gnu/libboost_system.so -l:/usr/lib/x86_64-linux-gnu/libconsole_bridge.so
+Requires: 

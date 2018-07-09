@@ -1,0 +1,1 @@
+/home/deddy/QGCInterface/devel/.private/uavugv/lib/python2.7/dist-packages/uavugv/__init__.py

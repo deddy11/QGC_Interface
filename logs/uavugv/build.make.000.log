@@ -1,0 +1,32 @@
+[35m[1mScanning dependencies of target _uavugv_generate_messages_check_deps_uavugverror
+[0m[  0%] Built target _uavugv_generate_messages_check_deps_uavugverror
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp
+[0m[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py
+[0m[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp
+[0m[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target uavugv_generate_messages_cpp
+[0m[ 14%] [34m[1mGenerating C++ code from uavugv/uavugverror.msg
+[0m[ 14%] Built target uavugv_generate_messages_cpp
+[35m[1mScanning dependencies of target uavugv_generate_messages_py
+[0m[ 28%] [34m[1mGenerating Python from MSG uavugv/uavugverror
+[0m[ 42%] [34m[1mGenerating Python msg __init__.py for uavugv
+[0m[ 42%] Built target uavugv_generate_messages_py
+[35m[1mScanning dependencies of target uavugv_generate_messages_lisp
+[0m[ 57%] [34m[1mGenerating Lisp code from uavugv/uavugverror.msg
+[0m[ 57%] Built target uavugv_generate_messages_lisp
+[35m[1mScanning dependencies of target uavugvpose
+[0m[ 71%] [32mBuilding CXX object CMakeFiles/uavugvpose.dir/src/uavugvpose.cpp.o
+[0m[31m[1mLinking CXX executable /home/deddy/QGCInterface/devel/.private/uavugv/lib/uavugv/uavugvpose
+[0m[ 71%] Built target uavugvpose
+[35m[1mScanning dependencies of target ugvdummy
+[0m[ 85%] [32mBuilding CXX object CMakeFiles/ugvdummy.dir/src/ugvdummy.cpp.o
+[0m[31m[1mLinking CXX executable /home/deddy/QGCInterface/devel/.private/uavugv/lib/uavugv/ugvdummy
+[0m[ 85%] Built target ugvdummy
+[35m[1mScanning dependencies of target uavdummy
+[0m[100%] [32mBuilding CXX object CMakeFiles/uavdummy.dir/src/uavdummy.cpp.o
+[0m[31m[1mLinking CXX executable /home/deddy/QGCInterface/devel/.private/uavugv/lib/uavugv/uavdummy
+[0m[100%] Built target uavdummy
+[35m[1mScanning dependencies of target uavugv_generate_messages
+[0m[100%] Built target uavugv_generate_messages

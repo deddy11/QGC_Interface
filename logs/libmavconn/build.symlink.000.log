@@ -1,0 +1,5 @@
+Symlinking /home/deddy/QGCInterface/devel/lib/libmavconn.so
+Symlinking /home/deddy/QGCInterface/devel/lib/pkgconfig/libmavconn.pc
+Symlinking /home/deddy/QGCInterface/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+Symlinking /home/deddy/QGCInterface/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+Symlinking /home/deddy/QGCInterface/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake

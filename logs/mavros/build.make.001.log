@@ -1,0 +1,7 @@
+[  0%] Built target mavros_msgs_generate_messages_cpp
+[ 25%] Built target mavros
+[ 27%] Built target chemical_dummy
+[ 30%] Built target QGCinterface
+[ 33%] Built target gcs_bridge
+[ 36%] Built target mavros_node
+[100%] Built target mavros_plugins

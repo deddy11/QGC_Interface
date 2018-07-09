@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/deddy/QGCInterface/devel/.private/test_mavros/setup.sh

@@ -1,0 +1,5 @@
+Symlinking /home/deddy/QGCInterface/devel/lib/libmavros_sitl_test.so
+Symlinking /home/deddy/QGCInterface/devel/lib/test_mavros/sitl_test_node
+Symlinking /home/deddy/QGCInterface/devel/lib/pkgconfig/test_mavros.pc
+Symlinking /home/deddy/QGCInterface/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake
+Symlinking /home/deddy/QGCInterface/devel/share/test_mavros/cmake/test_mavrosConfig.cmake

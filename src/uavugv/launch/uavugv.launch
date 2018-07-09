@@ -1,0 +1,8 @@
+<launch>
+    
+    <node name="uavugvpose" pkg="uavugv" type="uavugvpose">
+        <remap from="/UGV/localposition/pose" to="/UGV/posenotincluded"/>
+        <remap from="/gps/enu" to="/UGV/gpsnotincluded"/>
+    </node>
+
+</launch>

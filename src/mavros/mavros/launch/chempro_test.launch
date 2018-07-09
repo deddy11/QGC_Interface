@@ -1,0 +1,21 @@
+<launch>
+    <arg name="ns" default="GCS" />
+    <arg name="mavlink_bridge_url" default="udp://127.0.0.1:14553@127.0.0.1:14560" />
+
+    <param name="/use_sim_time" value="true"/>
+
+    <node pkg="rosbag" type="play" name="uji" args="--clock /home/deddy/QGCInterface/Visualisasi_2.bag" required="true">
+        <remap from="/UGV/global_position" to="/GCS/UGV_global" />
+    </node>
+
+    
+    <include file="$(find mavros)/launch/mavlink_bridge.launch">
+		<arg name="ns" value="$(arg ns)" />
+		<arg name="mavlink_bridge_url" value="$(arg mavlink_bridge_url)" />
+	</include>
+
+    <node name="QGCinterface" pkg="mavros" type="QGCinterface">
+        <remap from="/GCS/contaminant" to="/UGV/cont_pose" />
+    </node>
+
+</launch>

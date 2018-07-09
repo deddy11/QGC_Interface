@@ -1,0 +1,56 @@
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_cpp
+[0m[  0%] Built target mavros_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target mavros
+[0m[  2%] [  5%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/uas_stringify.cpp.o
+[32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/uas_data.cpp.o
+[0m[0m[ 11%] [ 11%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/uas_timesync.cpp.o
+[32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/uas_sensor_orientation.cpp.o
+[0m[0m[ 16%] [ 16%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/uas_frame_conversions.cpp.o
+[32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/uas_quaternion_utils.cpp.o
+[0m[0m[ 22%] [ 22%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/mavros.cpp.o
+[32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/mavlink_diag.cpp.o
+[0m[0m[ 25%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/rosconsole_bridge.cpp.o
+[0m[31m[1mLinking CXX shared library /home/deddy/QGCInterface/devel/.private/mavros/lib/libmavros.so
+[0m[ 25%] Built target mavros
+[35m[1mScanning dependencies of target chemical_dummy
+[35m[1mScanning dependencies of target QGCinterface
+[0m[ 27%] [32mBuilding CXX object CMakeFiles/chemical_dummy.dir/src/chemical_dummy.cpp.o
+[0m[0m[ 30%] [32mBuilding CXX object CMakeFiles/QGCinterface.dir/src/QGCinterface.cpp.o
+[0m[31m[1mLinking CXX executable /home/deddy/QGCInterface/devel/.private/mavros/lib/mavros/chemical_dummy
+[0m[ 30%] Built target chemical_dummy
+[35m[1mScanning dependencies of target gcs_bridge
+[0m[ 33%] [32mBuilding CXX object CMakeFiles/gcs_bridge.dir/src/gcs_bridge.cpp.o
+[0m[31m[1mLinking CXX executable /home/deddy/QGCInterface/devel/.private/mavros/lib/mavros/QGCinterface
+[0m[ 33%] Built target QGCinterface
+[35m[1mScanning dependencies of target mavros_node
+[0m[ 36%] [32mBuilding CXX object CMakeFiles/mavros_node.dir/src/mavros_node.cpp.o
+[0m[31m[1mLinking CXX executable /home/deddy/QGCInterface/devel/.private/mavros/lib/mavros/gcs_bridge
+[0m[ 36%] Built target gcs_bridge
+[35m[1mScanning dependencies of target mavros_plugins
+[0m[ 38%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/dummy.cpp.o
+[0m[31m[1mLinking CXX executable /home/deddy/QGCInterface/devel/.private/mavros/lib/mavros/mavros_node
+[0m[ 38%] Built target mavros_node
+[ 41%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/sys_status.cpp.o
+[0m[ 44%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/sys_time.cpp.o
+[0m[ 47%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/imu_pub.cpp.o
+[0m[ 50%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/param.cpp.o
+[0m[ 55%] [ 55%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/waypoint.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/rc_io.cpp.o
+[0m[ 61%] [ 61%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/command.cpp.o
+[32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/local_position.cpp.o
+[0m[0m[ 66%] [ 66%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/setpoint_position.cpp.o
+[32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/global_position.cpp.o
+[0m[0m[ 72%] [ 72%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/safety_area.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/3dr_radio.cpp.o
+[0m[ 77%] [ 77%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/setpoint_accel.cpp.o
+[32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/setpoint_velocity.cpp.o
+[0m[0m[ 83%] [ 83%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/setpoint_attitude.cpp.o
+[32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/setpoint_raw.cpp.o
+[0m[0m[ 88%] [ 88%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/vfr_hud.cpp.o
+[0m[32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/ftp.cpp.o
+[0m[ 91%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/actuator_control.cpp.o
+[0m[ 94%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/manual_control.cpp.o
+[0m[100%] [100%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/hil_controls.cpp.o
+[32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/altitude.cpp.o
+[0m[0m[31m[1mLinking CXX shared library /home/deddy/QGCInterface/devel/.private/mavros/lib/libmavros_plugins.so
+[0m[100%] Built target mavros_plugins

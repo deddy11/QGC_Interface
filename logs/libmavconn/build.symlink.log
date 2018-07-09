@@ -1,0 +1,5 @@
+Linked: (/home/deddy/QGCInterface/devel/.private/libmavconn/lib/libmavconn.so, /home/deddy/QGCInterface/devel/lib/libmavconn.so)
+Linked: (/home/deddy/QGCInterface/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc, /home/deddy/QGCInterface/devel/lib/pkgconfig/libmavconn.pc)
+Linked: (/home/deddy/QGCInterface/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake, /home/deddy/QGCInterface/devel/share/libmavconn/cmake/libmavconn-extras.cmake)
+Linked: (/home/deddy/QGCInterface/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake, /home/deddy/QGCInterface/devel/share/libmavconn/cmake/libmavconnConfig.cmake)
+Linked: (/home/deddy/QGCInterface/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake, /home/deddy/QGCInterface/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake)

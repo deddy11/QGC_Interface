@@ -1,0 +1,1 @@
+/home/deddy/QGCInterface/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake

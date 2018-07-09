@@ -1,0 +1,1 @@
+/home/deddy/QGCInterface/devel/.private/uavugv/lib/python2.7/dist-packages/uavugv/msg/_uavugverror.py

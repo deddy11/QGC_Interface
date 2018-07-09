@@ -1,0 +1,1 @@
+/home/deddy/QGCInterface/devel/.private/uavugv/share/uavugv/cmake/uavugv-msg-paths.cmake

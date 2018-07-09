@@ -1,0 +1,8 @@
+prefix=/home/deddy/QGCInterface/install
+
+Name: mavros_msgs
+Description: Description of mavros_msgs
+Version: 0.17.5
+Cflags: -I/home/deddy/QGCInterface/install/include
+Libs: -L/home/deddy/QGCInterface/install/lib 
+Requires: geometry_msgs message_runtime std_msgs
